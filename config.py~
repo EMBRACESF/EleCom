@@ -13,14 +13,6 @@ def summation (a, b):
 
 sumconfig = summation(x, y)
 
-def max(x, y):
-        if (x > y):
-
-                 print('max is equal to',x)
-        if (x < y):
-                print('max is equal to',y)
-
-
 
 #end of config file
 
