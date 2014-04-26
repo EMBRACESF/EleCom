@@ -20,7 +20,7 @@ def NuAverage (MethodSum):
 def myDouble(Number):
         return Number*2
 
-config.x = myDouble(config.x)
+config.x = myDouble(confi.x)
 
 config.y = myDouble(config.y)
 

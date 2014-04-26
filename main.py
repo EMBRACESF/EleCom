@@ -19,6 +19,12 @@ print('And the equivalent Average would be: ', modifier.NuAverage(config.summati
 #config was edited to get maximum
 print('the maximum will be: ', config.max(config.x, config.y))
 
+print ''
+print 'Now let us assume that we have values: ', config.x, ' and ', config.y 
+
+print 'The double of ', config.x,' and ' , config.y, 'will be ',modifier.myDouble(config.x ) ,' and ', modifier.myDouble(config.y) , 'respectively.'
+#modifier was edited to get the double of a number 
+
 
 
 
